@@ -1,7 +1,7 @@
 {
   "spider": "./bhvip.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "logo": "https://img.fy6b.com/2024/07/15/161bacbec4079.png",
+  "logo": "/logo.jpg",
   "warningText": "声明：资源来自网络，无盈利，所有内容仅供学习测试使用，请勿用于违法及商业用途，请勿付费购买，测试之后请自行删除]",
   "lives": [
     {
@@ -24,7 +24,7 @@
   "sites": [
     {
       "key": "豆瓣推荐",
-      "name": "🔥┃福利接口关注｜公众号：宝盒助手",
+      "name": "🔥┃公众号｜指尖看世界",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -489,15 +489,7 @@
       "filterable": 1,
       "ext": "./lib/waiyu.json"
     },
-    {
-      "key": "ext_live_protocol",
-      "name": "导航 http://ttrj.ysepan.com/",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+
     {
       "key": "cc",
       "name": "请勿相信视频中任何广告",
