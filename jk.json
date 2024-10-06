@@ -153,20 +153,16 @@
       "ext": "./lib/采集静态.json"
     },
     {
-        "key": "荐片4K",
-        "name": "📀荐片┃4K",
-        "type": 3,
-        "api": "csp_Jianpian",
-        "playerType": 1,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "danmu": true
-        },
-        "jar": "./lib/dm.jar"
-      },
-
+      "key": "荐片",
+      "name": "💡荐片┃影视",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://api2.rinhome.com"
+    },
     {
       "key": "南瓜",
       "name": "🔥┃南瓜影视┃秒播",
