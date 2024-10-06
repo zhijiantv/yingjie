@@ -163,18 +163,10 @@
       "order_num": 210,
       "ext": "./lib/采集静态.json"
     },
-    {
-      "key": "荐片",
-      "name": "🔥┃荐片影视┃秒播",
-      "type": 3,
-      "ua": "okhttp/3.15",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jianpian.js"
-    },
 
     {
      "key":"荐片",
-     "name":"💡荐片┃影视",
+     "name":"🔥┃荐片影视┃秒播",
      "type":3,
      "api":"csp_JianPian",
      "playerType":1,
