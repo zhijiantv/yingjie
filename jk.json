@@ -171,6 +171,18 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/jianpian.js"
     },
+
+    {
+     "key":"荐片",
+     "name":"💡荐片┃影视",
+     "type":3,
+     "api":"csp_JianPian",
+     "playerType":1,
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "ext":"http://api2.rinhome.com"
+     },
     {
       "key": "南瓜",
       "name": "🔥┃南瓜影视┃秒播",
