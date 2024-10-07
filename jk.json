@@ -458,19 +458,21 @@
   ],
   "logo": "./logo.jpg",
   "lives": [
-    {
-      "name": "LIVE",
+     {
+      "name": "直播②",
       "type": 0,
-      "url": "./lib/tv.m3u",
       "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
+      "url": "./lib/zb.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "IPV6",
+      "name": "直播①",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
-      "playerType": 1
+      "playerType": 1,
+      "url": "./lib/zb1.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
