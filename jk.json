@@ -6,7 +6,7 @@
       "key": "豆豆",
       "name": "🔥公众号┃指尖看世界",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
