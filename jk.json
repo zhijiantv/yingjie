@@ -6,10 +6,11 @@
       "key": "豆豆",
       "name": "🔥公众号┃指尖看世界",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "./lib/drpy3.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+      "ext": "./lib/分享douban.js"
     },
 
     {
