@@ -29,7 +29,8 @@
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./lib/lzxw.php"
     },
     {
       "key": "文采",
