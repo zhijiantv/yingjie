@@ -32,6 +32,18 @@
       "jar": "./lzxw/lzxw.php"
     },
     {
+      "key": "o站影视",
+      "name": "O源✨蓝光影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lzxw/lzxw.php",      
+      "ext": {
+        "简介": "剧情介绍:+line-height: 20px;\">&&</div>",
+        "分类url": "https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },    
+    {
       "key": "文采",
       "name": "💮文采┃秒播",
       "type": 3,
