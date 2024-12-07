@@ -44,6 +44,16 @@
       }
     },    
     {
+      "key": "瓜Z影视",
+      "name": "哈密瓜✨蓝光秒播",
+      "type": 3,
+      "api": "csp_AppGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lzxw/lzxw.php"      
+    },    
+    {
       "key": "文采",
       "name": "💮文采┃秒播",
       "type": 3,
