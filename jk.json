@@ -23,7 +23,7 @@
     },
     {
       "key": "快看影视",
-      "name": "快看✨蓝光影视",
+      "name": "快看┃蓝光",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -33,7 +33,7 @@
     },
     {
       "key": "o站影视",
-      "name": "O源✨蓝光影视",
+      "name": "O源┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lzxw/lzxw.php",      
@@ -45,7 +45,7 @@
     },    
     {
       "key": "瓜Z影视",
-      "name": "哈密瓜✨蓝光秒播",
+      "name": "哈密瓜┃蓝光",
       "type": 3,
       "api": "csp_AppGZ",
       "searchable": 1,
