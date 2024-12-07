@@ -3,13 +3,12 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "🔥公众号┃指尖看世界",
+      "key": "lzxw_豆瓣",
+      "name": "公众号:指尖看世界丨豆瓣影视推荐",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "csp_Douban",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "jar": "./lzxw/lzxw.php"
     },
 
     {
@@ -30,7 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/lzxw.php"
+      "jar": "./lzxw/lzxw.php"
     },
     {
       "key": "文采",
