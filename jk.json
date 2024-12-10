@@ -195,43 +195,43 @@
       "key": "腾讯视频",
       "name": "腾腾视频🌀解析",
       "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/腾讯视频.js"
+      "api": "./lzxw/lib/drpy2.min.js",
+      "ext": "./lzxw/lib/腾讯视频.js"
     },
     {
       "key": "爱奇艺",
       "name": "奇奇视频🌀解析",
       "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/爱奇艺.js"
+      "api": "./lzxw/lib/drpy2.min.js",
+      "ext": "./lzxw/lib/爱奇艺.js"
     },
     {
       "key": "优酷视频",
       "name": "优优视频🌀解析",
       "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/优酷视频.js"
+      "api": "./lzxw/lib/drpy2.min.js",
+      "ext": "./lzxw/lib/优酷视频.js"
     },
     {
       "key": "芒果视频",
       "name": "果果视频🌀解析",
       "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/芒果视频.js"
+      "api": "./lzxw/lib/drpy2.min.js",
+      "ext": "./lzxw/lib/芒果视频.js"
     },
     {
       "key": "搜狗视频",
       "name": "狗狗视频🌀解析",
       "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/搜狗视频.js"
+      "api": "./lzxw/lib/drpy2.min.js",
+      "ext": "./lzxw/lib/搜狗视频.js"
     },
     {
       "key": "哔哩视频",
       "name": "哩哩视频🌀解析",
       "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/哔哩视频.js"
+      "api": "./lzxw/lib/drpy2.min.js",
+      "ext": "./lzxw/lib/哔哩视频.js"
     },
     {
       "key": "短剧",
