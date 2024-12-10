@@ -240,21 +240,24 @@
       "api": "csp_AppXY",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./lzxw/lzxw.php"
     },
     {
       "key": "蓝莓短剧",
       "name": "蓝莓⚗️短剧秒播",
       "type": 3,
       "api": "./lzxw/JS/lib/dz.min.js",
-      "ext": "./lzxw/JS/lanmei.js"
+      "ext": "./lzxw/JS/lanmei.js",
+      "jar": "./lzxw/lzxw.php"
     },
     {
       "key": "你好帅",
       "name": "好帅⚗️短剧秒播",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lzxw/JS/好帅短剧.json"
+      "ext": "./lzxw/JS/好帅短剧.json",
+      "jar": "./lzxw/lzxw.php"
     },
     {
       "key": "无忧短剧",
@@ -266,7 +269,8 @@
       "style": {
         "type": "rect",
         "ratio": 1.433
-      }
+      },
+      "jar": "./lzxw/lzxw.php"
     },
     {
       "key": "在线短剧",
@@ -278,14 +282,16 @@
       "style": {
         "type": "rect",
         "ratio": 1.433
-      }
+      },
+      "jar": "./lzxw/lzxw.php"
     },
     {
       "key": "天堂短剧",
       "name": "天堂⚗️短剧资源",
       "type": 3,
       "api": "./lzxw/JS/drpy2.min.js",
-      "ext": "./lzxw/JS/天堂短剧.js"
+      "ext": "./lzxw/JS/天堂短剧.js",
+      "jar": "./lzxw/lzxw.php"
     },
     {
       "key": "爱你短剧",
@@ -295,7 +301,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lzxw/JS/爱你短剧.json"
+      "ext": "./lzxw/JS/爱你短剧.json",
+      "jar": "./lzxw/lzxw.php"
     },
     {
       "key": "河马短剧",
@@ -305,7 +312,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lzxw/JS/河马短剧.json"
+      "ext": "./lzxw/JS/河马短剧.json",
+      "jar": "./lzxw/lzxw.php"
     },
     {
       "key": "短剧屋",
@@ -315,7 +323,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lzxw/JS/短剧屋.json"
+      "ext": "./lzxw/JS/短剧屋.json",
+      "jar": "./lzxw/lzxw.php"
     },
     {
       "key": "短剧",
