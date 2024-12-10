@@ -549,16 +549,6 @@
   ],
   "parses": [
     {
-      "name": "超级并发",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
       "name": "指尖解析①",
       "type": 1,
       "url": "https://bd.jx.cn/?url=",
