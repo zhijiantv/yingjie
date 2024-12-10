@@ -233,6 +233,90 @@
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
     },
+        {
+      "key": "星芽短剧",
+      "name": "星芽⚗️短剧大全",
+      "type": 3,
+      "api": "csp_AppXY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "蓝莓短剧",
+      "name": "蓝莓⚗️短剧秒播",
+      "type": 3,
+      "api": "./lzxw/JS/lib/dz.min.js",
+      "ext": "./lzxw/JS/lanmei.js"
+    },
+    {
+      "key": "你好帅",
+      "name": "好帅⚗️短剧秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./lzxw/JS/好帅短剧.json"
+    },
+    {
+      "key": "无忧短剧",
+      "name": "无忧⚗️短剧资源",
+      "type": 3,
+      "api": "csp_Duanj",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "在线短剧",
+      "name": "在线⚗️短剧资源",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "天堂短剧",
+      "name": "天堂⚗️短剧资源",
+      "type": 3,
+      "api": "./lzxw/JS/drpy2.min.js",
+      "ext": "./lzxw/JS/天堂短剧.js"
+    },
+    {
+      "key": "爱你短剧",
+      "name": "爱你⚗️短剧资源",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lzxw/JS/爱你短剧.json"
+    },
+    {
+      "key": "河马短剧",
+      "name": "河马⚗️短剧资源",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lzxw/JS/河马短剧.json"
+    },
+    {
+      "key": "短剧屋",
+      "name": "剧屋⚗️短剧资源",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lzxw/JS/短剧屋.json"
+    },
     {
       "key": "短剧",
       "name": "🌈上头┃短剧",
