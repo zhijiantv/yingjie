@@ -899,36 +899,6 @@
       ]
     }
   ],
-  "lives": [
-    {
-      "name": "🌴林中小屋🏡直播源①",
-      "type": 0,
-      "url": "./TV/zby.txt",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "https://live.fanmingming.com/e.xml",
-      "logo": "https://8815.kstore.space/tczy/lzdxw.png"
-    },
-    {
-      "name": "🌲林中小屋🏡直播源②",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Gather",
-      "playerType": 2
-    },
-    {
-      "name": "🔰范明明直播源",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "🐏肥羊直播源",
-      "type": 3,
-      "api": "csp_Ysptp",
-      "ext": "./TV/live.txt",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    }
-  ],
   "flags": [
     "youku",
     "优酷",
