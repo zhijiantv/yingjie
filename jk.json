@@ -12,7 +12,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./daozhang/lib/豆瓣[官].js",
-      "jar": "./daozhang/pg.jar"
+      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
     },
 
     {
@@ -35,7 +35,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./daozhang/lib/360影视[官].js",
-      "jar": "./daozhang/pg.jar"
+      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
     },
     {
       "key": "hipy_js_菜狗[官]",
@@ -47,7 +47,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./daozhang/lib/菜狗[官].js",
-      "jar": "./daozhang/pg.jar"
+      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
     },
     {
       "key": "hipy_js_奇珍异兽[官]",
@@ -59,7 +59,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./daozhang/lib/奇珍异兽[官].js",
-      "jar": "./daozhang/pg.jar"
+      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
     },
     {
       "key": "hipy_js_优酷[官]",
@@ -71,7 +71,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./daozhang/lib/优酷[官].js",
-      "jar": "./daozhang/pg.jar"
+      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
     },
     {
       "key": "hipy_js_腾云驾雾[官]",
@@ -83,7 +83,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./daozhang/lib/腾云驾雾[官].js",
-      "jar": "./daozhang/pg.jar"
+      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
     },
     {
       "key": "hipy_js_百忙无果[官]",
@@ -95,7 +95,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./daozhang/lib/百忙无果[官].js",
-      "jar": "./daozhang/pg.jar"
+      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
     },
     {
       "key": "搜狗视频",
@@ -114,7 +114,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./daozhang/lib/哔哩影视[官].js",
-      "jar": "./daozhang/pg.jar"
+      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
     },
     {
       "key": "人人影视",
