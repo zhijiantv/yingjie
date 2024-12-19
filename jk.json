@@ -639,8 +639,18 @@
   ],
   "parses": [
     {
-      "name": "777",
-      "url": "https://jx.777jiexi.com/player/?url=",
+      "name": "超级并发",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "指尖解析①",
+      "url": "http://1.94.221.189:88/algorithm.php?url=",
       "type": 0,
       "ext": {
         "flag": [
@@ -671,7 +681,7 @@
       }
     },
     {
-      "name": "8090g",
+      "name": "指尖解析②",
       "url": "https://www.8090g.cn/jiexi/?url=",
       "type": 0,
       "ext": {
@@ -703,7 +713,7 @@
       }
     },
     {
-      "name": "ik9",
+      "name": "指尖解析③",
       "url": "https://yparse.ik9.cc/index.php?url=",
       "type": 0,
       "ext": {
@@ -735,7 +745,7 @@
       }
     },
     {
-      "name": "杰森",
+      "name": "指尖解析④",
       "url": "https://jx.jsonplayer.com/player/?url=",
       "type": 0,
       "ext": {
@@ -767,7 +777,7 @@
       }
     },
     {
-      "name": "阳途",
+      "name": "指尖解析⑤",
       "url": "https://jx.yangtu.top/?url=",
       "type": 0,
       "ext": {
@@ -799,7 +809,7 @@
       }
     },
     {
-      "name": "冰豆",
+      "name": "指尖解析⑥",
       "url": "https://bd.jx.cn/?url=",
       "type": 0,
       "ext": {
@@ -831,7 +841,7 @@
       }
     },
     {
-      "name": "m3u8TV",
+      "name": "指尖解析⑦",
       "url": "https://jx.m3u8.tv/jiexi/?url=",
       "type": 0,
       "ext": {
@@ -863,7 +873,7 @@
       }
     },
     {
-      "name": "听乐",
+      "name": "指尖解析⑧",
       "url": "https://jx.dj6u.com/?url=",
       "type": 0,
       "ext": {
@@ -895,7 +905,7 @@
       }
     },
     {
-      "name": "虾米",
+      "name": "指尖解析⑨",
       "url": "https://jx.xmflv.com/?url=",
       "type": 0,
       "ext": {
@@ -927,7 +937,7 @@
       }
     },
     {
-      "name": "虾米2",
+      "name": "指尖解析⑩",
       "url": "https://jx.xmflv.cc/?url=",
       "type": 0,
       "ext": {
@@ -959,7 +969,7 @@
       }
     },
     {
-      "name": "云析",
+      "name": "指尖解析11",
       "url": "https://jx.yparse.com/index.php?url=",
       "type": 0,
       "ext": {
@@ -991,7 +1001,7 @@
       }
     },
     {
-      "name": "红狐",
+      "name": "指尖解析12",
       "url": "https://player.mrgaocloud.com/player/?url=",
       "type": 0,
       "ext": {
