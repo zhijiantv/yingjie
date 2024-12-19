@@ -3,16 +3,12 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "hipy_js_豆瓣[官]",
-      "name": "公众号┃指尖看世界┃首次加载稍慢，请稍等片刻... ...",
+      "key": "lzxw_豆瓣",
+      "name": "公众号:指尖看世界丨豆瓣影视推荐",
       "type": 3,
-      "api": "./daozhang/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./daozhang/lib/豆瓣[官].js",
-      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
+      "api": "csp_Douban",
+      "searchable": 0,
+      "jar": "./lzxw/lzxw.php"
     },
 
     {
@@ -26,95 +22,46 @@
       "changeable": 0
     },
     {
-      "key": "hipy_js_360影视[官]",
-      "name": "360影视[官](drpy_t3)",
+      "key": "腾讯视频",
+      "name": "腾腾视频🌀解析",
       "type": 3,
-      "api": "./daozhang/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./daozhang/lib/360影视[官].js",
-      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
+      "api": "./lzxw/JS/drpy2.min.js",
+      "ext": "./lzxw/JS/腾讯视频.js"
     },
     {
-      "key": "hipy_js_菜狗[官]",
-      "name": "菜狗[官](drpy_t3)",
+      "key": "爱奇艺",
+      "name": "奇奇视频🌀解析",
       "type": 3,
-      "api": "./daozhang/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./daozhang/lib/菜狗[官].js",
-      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
+      "api": "./lzxw/JS/drpy2.min.js",
+      "ext": "./lzxw/JS/爱奇艺.js"
     },
     {
-      "key": "hipy_js_奇珍异兽[官]",
-      "name": "奇珍异兽[官](drpy_t3)",
+      "key": "优酷视频",
+      "name": "优优视频🌀解析",
       "type": 3,
-      "api": "./daozhang/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./daozhang/lib/奇珍异兽[官].js",
-      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
+      "api": "./lzxw/JS/drpy2.min.js",
+      "ext": "./lzxw/JS/优酷视频.js"
     },
     {
-      "key": "hipy_js_优酷[官]",
-      "name": "优酷[官](drpy_t3)",
+      "key": "芒果视频",
+      "name": "果果视频🌀解析",
       "type": 3,
-      "api": "./daozhang/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./daozhang/lib/优酷[官].js",
-      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
-    },
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "腾云驾雾[官](drpy_t3)",
-      "type": 3,
-      "api": "./daozhang/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./daozhang/lib/腾云驾雾[官].js",
-      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
-    },
-    {
-      "key": "hipy_js_百忙无果[官]",
-      "name": "百忙无果[官](drpy_t3)",
-      "type": 3,
-      "api": "./daozhang/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./daozhang/lib/百忙无果[官].js",
-      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
+      "api": "./lzxw/JS/drpy2.min.js",
+      "ext": "./lzxw/JS/芒果视频.js"
     },
     {
       "key": "搜狗视频",
-      "name": "搜狗🌀解析",
+      "name": "狗狗视频🌀解析",
       "type": 3,
       "api": "./lzxw/JS/drpy2.min.js",
       "ext": "./lzxw/JS/搜狗视频.js"
     },
     {
-      "key": "hipy_js_哔哩影视[官]",
-      "name": "哔哩影视[官](drpy_t3)",
+      "key": "哔哩视频",
+      "name": "哩哩视频🌀解析",
       "type": 3,
-      "api": "./daozhang/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./daozhang/lib/哔哩影视[官].js",
-      "jar": "./daozhang/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
+      "api": "./lzxw/JS/drpy2.min.js",
+      "ext": "./lzxw/JS/哔哩视频.js"
     },
     {
       "key": "人人影视",
