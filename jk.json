@@ -650,34 +650,31 @@
     },
     {
       "name": "指尖解析",
+      "type": 1,
       "url": "http://1.94.221.189:88/algorithm.php?url=",
-      "type": 0,
       "ext": {
         "flag": [
+          "qq",
+          "腾讯",
           "qiyi",
-          "imgo",
           "爱奇艺",
           "奇艺",
-          "qq",
-          "qq 预告及花絮",
-          "腾讯",
           "youku",
           "优酷",
-          "pptv",
-          "PPTV",
+          "sohu",
+          "搜狐",
           "letv",
           "乐视",
-          "leshi",
           "mgtv",
           "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ]
-      },
-      "header": {
-        "User-Agent": "Mozilla/5.0"
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
       }
     },    
     {
