@@ -759,7 +759,24 @@
     {
       "name": "指尖解析⑤",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://jx.xmflv.com/?url=",
+      "flag": [
+        "m.bilibili.com",
+        "youku.com",
+        "www.youku.com",
+        "m.youku.com",
+        "3g.v.qq.com",
+        "m.v.qq.com",
+        "m.iqiyi.com",
+        "m.mgtv.com",
+        "m.tv.sohu.com",
+        "m.1905.com",
+        "m.pptv.com" ,
+        "m.le.com" 
+      ] ,
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }     
     },
     {
       "name": "指尖解析⑥",
