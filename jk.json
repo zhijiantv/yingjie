@@ -681,7 +681,6 @@
       "name": "指尖解析②",
       "type": 1,
       "url": "https://im1907.top/?jx=",
-      "ext": {
         "flag": [
         "m.bilibili.com",
         "youku.com",
@@ -698,8 +697,7 @@
       ] ,
       "header": {
         "User-Agent": "Dalvik/2.1.0"
-      }
-       }    
+      }   
     },
     {
       "name": "指尖解析③",
@@ -733,7 +731,6 @@
     {
       "name": "指尖解析④",
       "url": "https://jx.yangtu.top/?url=",
-      "ext": {
         "flag": [
         "m.bilibili.com",
         "youku.com",
@@ -750,15 +747,13 @@
       ] ,
       "header": {
         "User-Agent": "Dalvik/2.1.0"
-      }
-       },  
+      },  
       "type": "1"
     },
     {
       "name": "指尖解析⑤",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
-      "ext": {
         "flag": [
         "m.bilibili.com",
         "youku.com",
@@ -775,14 +770,12 @@
       ] ,
       "header": {
         "User-Agent": "Dalvik/2.1.0"
-      }
-       }      
+      }    
     },
     {
       "name": "指尖解析⑥",
       "type": 1,
       "url": "https://vip.bljiex.com/?v=",
-      "ext": {
         "flag": [
         "m.bilibili.com",
         "youku.com",
@@ -799,14 +792,12 @@
       ] ,
       "header": {
         "User-Agent": "Dalvik/2.1.0"
-      }
-       }  
-    },
+     }
+     },
     {
       "name": "指尖解析⑦",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
-      "ext": {
         "flag": [
           "qq",
           "腾讯",
@@ -827,12 +818,10 @@
           "1905",
           "NetFilx"
         ]
-      }
     },
     {
       "name": "指尖解析⑧",
       "url": "https://bd.jx.cn/?url=",
-      "ext": {
         "flag": [
         "m.bilibili.com",
         "youku.com",
@@ -849,7 +838,6 @@
       ] ,
       "header": {
         "User-Agent": "Dalvik/2.1.0"
-      }
        },  
       "type": "1"
     },
@@ -857,7 +845,6 @@
       "name": "指尖解析⑨",
       "type": 1,
       "url": "https://www.ckplayer.vip/jiexi/?url=",
-      "ext": {
         "flag": [
         "m.bilibili.com",
         "youku.com",
@@ -875,13 +862,11 @@
       "header": {
         "User-Agent": "Dalvik/2.1.0"
       }
-       }
     },
     {
       "name": "指尖解析⑩",
       "type": 1,
       "url": "https://dmjx.m3u8.tv/?url=",
-      "ext": {
         "flag": [
         "m.bilibili.com",
         "youku.com",
@@ -899,13 +884,11 @@
       "header": {
         "User-Agent": "Dalvik/2.1.0"
       }
-       }
     },
     {
       "name": "指尖解析11",
       "type": 1,
       "url": "https://yparse.ik9.cc/index.php?url==",
-      "ext": {
         "flag": [
         "m.bilibili.com",
         "youku.com",
@@ -923,7 +906,6 @@
       "header": {
         "User-Agent": "Dalvik/2.1.0"
       }
-       }
     }
   ],
   "flags": [
