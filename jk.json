@@ -80,6 +80,42 @@
       }
     },
     {
+      "key": "csp_Nmys",
+      "name": "伯伯🎇秒播",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./wex/wex.txt"
+    },
+    {
+      "key": "F4kvm",
+      "name": "纯享🎇秒播",
+      "type": 3,
+      "api": "csp_WexF4kvm",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./wex/wex.txt"
+    },
+    {
+      "key": "Wexbaipiao",
+      "name": "星星🎇秒播",
+      "type": 3,
+      "api": "csp_Wexbaipiao",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./wex/wex.txt"
+    },
+    {
+      "key": "WexBDys",
+      "name": "滴滴🎇秒播",
+      "type": 3,
+      "api": "csp_WexBDys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./wex/wex.txt"
+    },            
+    {
       "key": "快看影视",
       "name": "快看📢蓝光",
       "type": 3,
