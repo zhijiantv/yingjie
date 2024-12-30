@@ -64,6 +64,24 @@
       "ext": "./lzxw/JS/哔哩视频.js"
     },
     {
+      "key": "糯米",
+      "name": "糯米🍓秒播",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "比特🍄秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },        
+    {
       "key": "人人影视",
       "name": "人人⚡影视",
       "type": 3,
@@ -78,8 +96,7 @@
         "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
       }
-    },
-          
+    },          
     {
       "key": "快看影视",
       "name": "快看📢蓝光",
