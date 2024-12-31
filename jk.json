@@ -27,6 +27,7 @@
       "name": "嫖嫖影视",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./bhjk/bh.jar",
       "ext": {
         "主页url": "https://www.gs4x7nq4.com/",
         "播放请求头": "User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36",
