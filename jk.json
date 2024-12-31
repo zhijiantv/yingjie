@@ -24,7 +24,7 @@
     },
    {
       "key": "csp_影業",
-      "name": "指尖🌟秒播",
+      "name": "📍指尖影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./bhjk/bh.jar",
@@ -36,7 +36,7 @@
         "副标题": "指尖：+text-right\">&&</span>",
         "搜索url": "/search.php;post;searchword={wd}",
         "线路数组": "<h3&&/h3>",
-        "线路标题": "指尖专享✨+src=*>&&<",
+        "线路标题": "指尖专享📍+src=*>&&<",
         "分类url": "http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
