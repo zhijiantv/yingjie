@@ -89,12 +89,7 @@
       "jar": "./bhjk/DEMO.jar",
       "type": 3,
       "api": "csp_MiTuApp",
-      "ext": {
-        "url": "https://ky1080.top",
-        "dataKey": "e59d44b2eef03ba2",
-        "dataIv": "e59d44b2eef03ba2",
-        "deviceId": "23813b15bf7bd359cb8d32f9d0286244c"
-  }
+      "ext":"https://ky1080.top"
     },     
     {
       "key": "csp_Wwys",
