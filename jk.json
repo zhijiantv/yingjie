@@ -84,8 +84,8 @@
       "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ=="
     }, 
      {
-      "key": "csp_MiTuApp",
-      "name": "米兔⚡测试",
+      "key": "测试",
+      "name": "测试⚡测试",
       "jar": "./bhjk/DEMO.jar",
       "type": 3,
       "api": "csp_MiTuApp",
