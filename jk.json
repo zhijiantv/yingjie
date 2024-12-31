@@ -31,7 +31,7 @@
       "ext": {
         "主页url": "https://www.gs4x7nq4.com/",
         "播放请求头": "User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36",
-        "简介": "公众号宝盒APP提醒您⚠请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>",
+        "简介": "指尖影视提醒您⚠请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>",
         "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
         "影片类型": "tags\">&&director\">",
         "影片状态": "bottom\">&&</div>",
@@ -43,7 +43,7 @@
         "链接": "https://www.gs4x7nq4.com/detail/+vodId\":&&,",
         "导演": "导演:</div>&&主演",
         "主演": "主演:</div>&&别名",
-        "线路标题": "xxx",
+        "线路标题": "指尖影视",
         "播放数组": "listitem\">&&info\">",
         "播放列表": "<a&&</a>",
         "倒序": "否",
@@ -55,7 +55,7 @@
     },
     {
       "key": "iysdq",
-      "name": "影院视频┃秒播",
+      "name": "影院⚡秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./bhjk/bh.jar",      
@@ -69,7 +69,7 @@
     },
     {
       "key": "csp_南瓜",
-      "name": "北瓜视频┃秒播",
+      "name": "北瓜⚡秒播",
       "type": 3,
       "api": "csp_MiTuApp",
       "jar": "./bhjk/DEMO.jar",
@@ -77,7 +77,7 @@
     },
      {
       "key": "csp_MiTuApp",
-      "name": "米兔视频┃秒播",
+      "name": "米兔⚡秒播",
       "jar": "./bhjk/DEMO.jar",
       "type": 3,
       "api": "csp_MiTuApp",
@@ -85,7 +85,7 @@
     }, 
     {
       "key": "csp_Wwys",
-      "name": "特狗视频┃秒播",
+      "name": "特狗⚡秒播",
       "type": 3,
       "playerType": 2,
       "changeable": 0,
@@ -95,7 +95,7 @@
     },    
     {
       "key": "快看影视",
-      "name": "快看影视┃秒播",
+      "name": "快看⚡秒播",
       "type": 3,
       "api": "csp_Kuaikan",
       "jar": "./bhjk/xcxl.jar",
@@ -105,7 +105,7 @@
     }, 
      {
       "key": "机器人弹幕",
-      "name": "机器弹幕┃秒播",
+      "name": "机器⚡秒播",
       "type": 3,
       "api": "csp_Ikanbot",
       "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
@@ -118,7 +118,7 @@
     }, 
     {
       "key": "csp_xBPQ_奇优",
-      "name": "奇优秒播┃自制",
+      "name": "奇优⚡秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "ua": "okhttp/3.15",
@@ -130,7 +130,7 @@
     }, 
     {
       "key": "csp_影業",
-      "name": "九八视频┃秒播",
+      "name": "九八⚡秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./bhjk/bh.jar",
@@ -149,7 +149,7 @@
     }, 
     {
       "key": "xbpq_高清剧场",
-      "name": "高清视频┃秒播",
+      "name": "高清⚡秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./bhjk/bh.jar",
@@ -162,7 +162,7 @@
     }, 
     {
       "key": "csp_XSX",
-      "name": "视讯视频┃秒播",
+      "name": "视讯⚡秒播",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
