@@ -14,7 +14,7 @@
 
     {
       "key": "alllive",
-      "name": "📽️一直播┃LIVE",
+      "name": "聚合📽️直播",
       "type": 3,
       "api": "csp_Alllive",
       "playerType": 2,
