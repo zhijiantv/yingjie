@@ -40,7 +40,103 @@
         "分类url": "http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
-    },     
+    },  
+//--弹幕--//
+    {
+      "key": "厂长弹幕",
+      "name": "厂长📶弹幕",
+      "type": 3,
+      "api": "csp_Czzy",
+      "jar": "./bhjk/danmu.zip",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "苹果弹幕",
+      "name": "苹果📶弹幕",
+      "type": 3,
+      "api": "csp_Xpg",
+      "jar": "./bhjk/danmu.zip",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "天天弹幕",
+      "name": "天天📶弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "./bhjk/danmu.zip",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+      }
+    },
+    {
+      "key": "热播弹幕",
+      "name": "热播📶弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "./bhjk/danmu.zip",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YucmJvdHYuY24="
+      }
+    },
+    {
+      "key": "浪酷弹幕",
+      "name": "浪酷📶弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "./bhjk/danmu.zip",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
+    },
+    {
+      "key": "糯米弹幕",
+      "name": "糯米📶弹幕",
+      "type": 3,
+      "api": "csp_Nmys",
+      "jar": "./bhjk/danmu.zip",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "文才弹幕",
+      "name": "文才📶弹幕",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "./bhjk/danmu.zip",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+
     {
       "key": "嫖嫖嫖",
       "name": "嫖嫖┃影视",
