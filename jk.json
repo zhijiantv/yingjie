@@ -11,17 +11,6 @@
       "searchable": 0,
       "jar": "./lzxw/lzxw.php"
     },
-
-    {
-      "key": "alllive",
-      "name": "聚合📽️直播",
-      "type": 3,
-      "api": "csp_Alllive",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
    {
       "key": "csp_影業",
       "name": "📢影界推荐",
