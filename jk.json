@@ -9,8 +9,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "./lzxw/lzxw.php",
-      "ext":"./gonggao.json"
+      "jar": "./lzxw/lzxw.php"
     },
    {
       "key": "csp_影業",
@@ -158,6 +157,7 @@
         "分类url": "https://www.gs4x7nq4.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
       }
     },
+ //--秒播--//   
     {
       "key": "iysdq",
       "name": "影院⚡秒播",
@@ -260,48 +260,6 @@
       "ext": ""
     },                            
     {
-      "key": "腾讯视频",
-      "name": "腾腾🌀解析",
-      "type": 3,
-      "api": "./lzxw/JS/drpy2.min.js",
-      "ext": "./lzxw/JS/腾讯视频.js"
-    },
-    {
-      "key": "爱奇艺",
-      "name": "奇奇🌀解析",
-      "type": 3,
-      "api": "./lzxw/JS/drpy2.min.js",
-      "ext": "./lzxw/JS/爱奇艺.js"
-    },
-    {
-      "key": "优酷视频",
-      "name": "优优🌀解析",
-      "type": 3,
-      "api": "./lzxw/JS/drpy2.min.js",
-      "ext": "./lzxw/JS/优酷视频.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "果果🌀解析",
-      "type": 3,
-      "api": "./lzxw/JS/drpy2.min.js",
-      "ext": "./lzxw/JS/芒果视频.js"
-    },
-    {
-      "key": "搜狗视频",
-      "name": "狗狗🌀解析",
-      "type": 3,
-      "api": "./lzxw/JS/drpy2.min.js",
-      "ext": "./lzxw/JS/搜狗视频.js"
-    },
-    {
-      "key": "哔哩视频",
-      "name": "哩哩🌀解析",
-      "type": 3,
-      "api": "./lzxw/JS/drpy2.min.js",
-      "ext": "./lzxw/JS/哔哩视频.js"
-    },
-    {
       "key": "糯米",
       "name": "糯米🍓秒播",
       "type": 3,
@@ -325,19 +283,7 @@
         "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
       }
-    },          
-    {
-      "key": "o站影视",
-      "name": "O源📢蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lzxw/lzxw.php",      
-      "ext": {
-        "简介": "剧情介绍:+line-height: 20px;\">&&</div>",
-        "分类url": "https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-      }
-    },    
+    },           
     {
       "key": "瓜Z影视",
       "name": "哈密📢蓝光",
@@ -486,6 +432,7 @@
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
     },
+ //--短剧--//   
         {
       "key": "星芽短剧",
       "name": "星芽⚗️短剧",
