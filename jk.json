@@ -4,12 +4,12 @@
   "logo":"./logo.jpg",
   "sites": [
     {
-      "key": "lzxw_豆瓣",
+      "key": "ouge_豆瓣",
       "name": "公众号:指尖看世界丨豆瓣影视推荐",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "./ouge/ouge.php;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
+      "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
       "ext":"./gonggao.json"
     },
    {
