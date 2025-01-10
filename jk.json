@@ -4,13 +4,12 @@
   "logo":"./logo.jpg",
   "sites": [
     {
-      "key": "ouge_豆瓣",
+      "key": "lzxw_豆瓣",
       "name": "公众号:指尖看世界丨豆瓣影视推荐",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "./ouge/ouge.php",
-      "ext":"./gonggao.json"
+      "jar": "./lzxw/lzxw.php"
     },
    {
       "key": "csp_影業",
