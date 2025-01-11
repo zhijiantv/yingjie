@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "量子资源",
-      "name": "量子|隐藏主页功能",
+      "name": "📢量子|隐藏主页功能",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
       "playUrl": "https://lziplayer.com/?url=",
@@ -12,7 +12,7 @@
     },
     {
       "key": "色猫资源",
-      "name": "色猫资源",
+      "name": "色猫💛资源",
       "type": 0,
       "api": "https://api.maozyapi.com/inc/api.php",
       "playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
@@ -22,7 +22,7 @@
     },
     {
       "key": "大地资源",
-      "name": "大地资源",
+      "name": "大地💛资源",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "playUrl": "https://ddddjx.com/watch?url=",
@@ -32,7 +32,7 @@
     },
     {
       "key": "玉兔资源",
-      "name": "玉兔资源",
+      "name": "玉兔💛资源",
       "type": 0,
       "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://yutujx.com/?url=",
@@ -42,7 +42,7 @@
     },
     {
       "key": "探探资源",
-      "name": "探探资源",
+      "name": "探探💛资源",
       "type": 0,
       "api": "https://apitantanzy.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
@@ -52,7 +52,7 @@
     },
     {
       "key": "乐播资源",
-      "name": "乐播资源",
+      "name": "乐播💛资源",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://lbjx9.com/?url=",
@@ -62,7 +62,7 @@
     },
     {
       "key": "番号资源",
-      "name": "番号资源",
+      "name": "番号💛资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/at/json/",
       "playUrl": "https://www.fhm3u8.com/dpm3u8.html?url=",
@@ -72,7 +72,7 @@
     },
     {
       "key": "森林资源",
-      "name": "森林资源",
+      "name": "森林💛资源",
       "type": 0,
       "api": "https://slapibf.com/api.php/provide/vod/at/xml",
       "playUrl": "https://sljxsl.com/?url=",
@@ -82,7 +82,7 @@
     },
     {
       "key": "155资源",
-      "name": "155资源",
+      "name": "155💛资源",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/at/json/",
       "playUrl": "https://www.155jx.com/?url=",
@@ -92,7 +92,7 @@
     },
     {
       "key": "奶香香资源",
-      "name": "奶香香资源",
+      "name": "奶香香💛资源",
       "type": 0,
       "api": "https://naixxzy.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://nxxbfjx.com/?url=",
@@ -102,7 +102,7 @@
     },
     {
       "key": "奥斯卡资源",
-      "name": "奥斯卡资源",
+      "name": "奥斯卡💛资源",
       "type": 0,
       "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
       "playUrl": "https://askvodbf.com/play.html?url=",
@@ -112,7 +112,7 @@
     },
     {
       "key": "辣椒资源",
-      "name": "辣椒资源",
+      "name": "辣椒💛资源",
       "type": 1,
       "api": "https://apilj.com/api.php/provide/vod/at/json/",
       "playUrl": "https://lajiaoapi.com/watch?url=",
@@ -122,7 +122,7 @@
     },
     {
       "key": "老色逼资源",
-      "name": "老色逼资源",
+      "name": "老色逼💛资源",
       "type": 0,
       "api": "https://apilsbzy1.com/api.php/provide/vod/at/xml",
       "playUrl": "https://playlaosebi.com/?url=",
@@ -132,7 +132,7 @@
     },
     {
       "key": "鸡坤资源",
-      "name": "鸡坤资源",
+      "name": "鸡坤💛资源",
       "type": 0,
       "api": "https://jkunzyapi.com/api.php/seaxml/vod/at/xml",
       "playUrl": "https://www.jkunzyjx.com/?url=",
