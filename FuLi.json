@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "量子资源",
-      "name": "📢隐藏|点我切换",
+      "name": "📢:隐藏┃点我切换",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
       "playUrl": "https://lziplayer.com/?url=",
