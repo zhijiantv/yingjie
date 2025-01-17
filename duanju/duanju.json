@@ -1,0 +1,130 @@
+{
+  "sites": [
+     {
+      "key":"星芽短剧1",
+      "name":"星芽🎭短剧",
+      "type":3,
+      "api":"csp_AppXY",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":0,
+      "jar":"./xc_0805.jar"
+    },     
+    {
+      "key": "旺旺短剧",
+      "name": "旺旺🎭️短剧",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "短剧"
+      ]
+    },  
+    {
+      "key": "优质短剧",
+      "name": "优质🎭️短剧",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "playUrl": "https://vip.zykbf.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "短剧大全"
+      ]
+    },
+    {
+      "key": "天空短剧",
+      "name": "天空🎭️短剧",
+      "type": 1,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.huishij.com/yun/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "短剧"
+      ]
+    },
+    {
+      "key": "红牛短剧",
+      "name": "红牛🎭️短剧",
+      "type": 0,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+      "playUrl": "https://www.hnjiexi.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "短剧"
+      ]
+    },
+    {
+      "key": "光速短剧",
+      "name": "光速🎭️短剧",
+      "type": 0,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "https://www.gszyv.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "短剧"
+      ]
+    },
+    {
+      "key": "极速短剧",
+      "name": "极速🎭️短剧",
+      "type": 0,
+      "api": "https://jszyapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://jsjiexi.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "短剧"
+      ]
+    },
+    {
+      "key": "OK短剧",
+      "name": "OK🎭️短剧",
+      "type": 0,
+      "api": "https://api.okzy.org/api.php/provide/vod/from/okm3u8/at/xml",
+      "playUrl": "https://jiexi.okzyw.info/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "爽文短剧"
+      ]
+    },
+    {
+      "key": "豪华短剧",
+      "name": "豪华🎭️短剧",
+      "type": 0,
+      "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://hhjiexi.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "短剧"
+      ]
+    },
+    {
+      "key": "最大短剧",
+      "name": "最大🎭️短剧",
+      "type": 1,
+      "api": "https://api.zuidapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.zuidplay.com/m3u8Player/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "爽文短剧"
+      ]
+    }
+  ]
+}
