@@ -1,0 +1,673 @@
+{
+  "spider": "./jar/bhtw.jar",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "logo": "https://gitee.com/zhijiantv/zhijianbox/raw/master/logo.jpg",
+  "warningText": "声明：资源来自网络，无盈利，所有内容仅供学习测试使用，请勿用于违法及商业用途，请勿付费购买，测试之后请自行删除]",
+
+  "sites": [
+    {
+      "key": "csp_dapingtv",
+      "name": "公众号：指尖看世界|豆瓣",
+      "type": 3,
+      "api": "csp_dapingtv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "playerType": 2,
+      "filterable": 1,
+      "indexs": 1,
+      "ext": "https://sfile.chatglm.cn/chatglm4/df0f1e37-2ad6-4b6f-9a11-d8ab00cd02ec/1125dapingtv.json",
+      "jar": "./jar/0117.jar;md5;e7e09f534553f86bba8d819f16967aa9"  
+    },
+
+    {
+      "key": "天天弹幕版",
+      "name": "天天┃弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "文才弹幕",
+      "name": "文才┃弹幕",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "浪酷弹幕",
+      "name": "狼窟┃弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
+    },
+    {
+      "key": "糯米弹幕",
+      "name": "糯米┃弹幕",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "热播弹幕",
+      "name": "热播┃弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YucmJvdHYuY24="
+      }
+    },
+    {
+      "key": "鲨鱼影视",
+      "name": "鲨鱼┃秒看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/shayu.json"
+    },
+    {
+      "key": "海豚影视",
+      "name": "海豚┃秒看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/haitun.json"
+    },
+    {
+      "key": "螃蟹影视",
+      "name": "螃蟹┃秒看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/pangxie.json"
+    },
+    {
+      "key": "狐狸影视",
+      "name": "狐狸┃秒看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/huli.json"
+    },
+    {
+      "key": "熊猫影视⑧",
+      "name": "熊猫┃秒看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/xiongmao.json"
+    },
+    {
+      "key": "大鹅影视",
+      "name": "大鹅┃秒看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/dae.json"
+    },
+    {
+      "key": "蝌蚪影视①",
+      "name": "蝌一┃秒看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/kedou1.json"
+    },
+    {
+      "key": "蝌蚪影视②",
+      "name": "蝌二┃秒看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "aHR0cDovL216amsudG9wL+emgeatoui0qeWNli9saWIva2Vkb3UyLmpzb24="
+    },
+    {
+      "key": "JP",
+      "name": "金牌┃纯净",
+      "type": 3,
+      "api": "csp_WebJP",
+      "jar": "https://codeberg.org/mzjk0/api/raw/branch/main/0213.zip",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKTwpbDpMOdwrLCr8KowpbCn8KdV8KlwpPCocOtw6PCo1dqUMKgw47lh7/phaHmkJ/lkJZc5Yac5L2H5ZGwwq3lv6voqL/otr7mu4PnrInCjVfCpcKTwqHDncOfwpbCosKpwqDDrcK+w5/DssKhbVBXwqfCrsKowqvCqcKsZ2hXwq0="
+    },
+    {
+      "key": "nm",
+      "name": "农民┃二刷",
+      "type": 3,
+      "api": "csp_WebNM",
+      "jar": "https://codeberg.org/mzjk0/api/raw/branch/main/0213.zip",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKawqpewpPDp8KawqbCmcKhwqfCmcKgV8KzwpPCocOU5Ye/6YSb5o+V5ZCTXOWHpeS+iuWRscKz5b+r6Ke56LW05ruA56yJw5bCmsKmwpnCocKXwpXCk8Kiw7LDo8Ouw4TDn8KsV2pQwqDDqsKvwq7Cq2NiZGjCoMOw"
+    },
+    {
+      "key": "红花",
+      "name": "红花┃纯钛",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.hkybqufgh.com/"
+    },
+    {
+      "key": "csp_AppDrama2",
+      "name": "老虎┃秒看",
+      "type": 3,
+      "quickSearch": 0,
+      "api": "csp_AppDrama",
+      "jar": "./lib/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
+      "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
+    },
+    {
+      "key": "csp_良人",
+      "name": "良人┃秒看",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp",
+      "jar": "./lib/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
+    },
+    {
+      "key": "荣荣",
+      "name": "荣荣┃秒看",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="
+    },
+    {
+      "key": "雨滴",
+      "name": "雨滴┃秒看",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 1,
+      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
+    },
+    {
+      "key": "玉米",
+      "name": "玉米┃秒看",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 1,
+      "ext": "jaHR0cDovLzIxMS4xMDEuMjM3LjIyMDo4NTIzfDF2ZmZzZGFzZGFzZGFzZDJ8MXZmZnNkYXNkYXNkYXNkMnwxMDU="
+    },
+    {
+      "key": "南瓜",
+      "name": "南瓜┃秒看",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "./lib/BH250118.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "天天",
+      "name": "天天┃秒看",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 1,
+      "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
+    },
+    {
+      "key": "热播",
+      "name": "热播┃秒看",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 1,
+      "ext": "caHR0cDovL3YucmJvdHYuY24="
+    },
+    {
+      "key": "追剧",
+      "name": "追剧┃秒看",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 1,
+      "ext": "daHR0cDovL3YubGt1eXMuY24="
+    },
+    {
+      "key": "剧评",
+      "name": "剧评┃秒看",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
+    },
+    {
+      "key": "现代",
+      "name": "现代┃秒看",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
+    },
+    {
+      "key": "优质",
+      "name": "优质┃秒看",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
+    },
+    {
+      "key": "客星",
+      "name": "客星┃秒看",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 1,
+      "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
+    },
+    {
+      "key": "蝴蝶",
+      "name": "蝴蝶┃秒看",
+      "type": 3,
+      "api": "csp_Hudie",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+    {
+      "key": "柠檬",
+      "name": "柠檬┃秒看",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "jar": "./lib/BH250118.jar",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+    {
+      "key": "Lib",
+      "name": "李白┃直连",
+      "type": 3,
+      "api": "csp_Lib",
+      "jar": "./lib/BH250118.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM="
+    },
+    {
+      "key": "苹果影视",
+      "name": "苹果┃秒播",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_南瓜",
+      "name": "南瓜┃秒播",
+      "type": 3,
+      "api": "csp_MiTuApp",
+      "jar": "./lib/DEMO.jar",
+      "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cDovLzExMS4xODAuMjA2LjEyNzozMzAiLAogICAgICAgICJkYXRhS2V5IjogInZhM2hmNzkzbjNDRmR2RlMiLAogICAgICAgICJkYXRhSXYiOiAidmEzaGY3OTNuM0NGZHZGUyIsCiAgICAgICAgImRldmljZUlkIjogIjIzODEzYjE1YmY3YmQzNTljYjhkMzJmOWQwMjg2MjQ0YyIKICB9"
+    },
+    {
+      "key": "csp_XSX",
+      "name": "视讯┃秒播",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "csp_Xsx",
+      "jar": "./lib/DEMO.jar",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "特狗┃秒播",
+      "type": 3,
+      "playerType": 2,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "jar": "./lib/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
+      "ext": "https://www.wwgz.cn/"
+    },
+    {
+      "key": "南瓜影视",
+      "name": "南瓜┃星辰",
+      "type": 3,
+      "api": "csp_Nangua",
+      "jar": "http://mzrjk.top/bhjk/xcxl",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "快看影视",
+      "name": "快看┃星辰",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "jar": "http://mzrjk.top/bhjk/xcxl",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_TianTian",
+      "name": "每天┃星辰",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "http://mzrjk.top/bhjk/xcxl",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "热播影视",
+      "name": "热播┃星辰",
+      "type": 3,
+      "api": "csp_AppRB",
+      "jar": "http://mzrjk.top/bhjk/xcxl",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "星辰",
+      "name": "布蕾┃道长",
+      "type": 3,
+      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://47.99.102.252/drpy_js/bulei.js"
+    },
+    {
+      "key": "机器人弹幕",
+      "name": "机器┃弹幕",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "小宝zj",
+      "name": "单仓┃宝盒",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
+      }
+    },
+    {
+      "key": "碟迷",
+      "name": "碟迷┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "搜索url": "https://www.diemi.cc/search/?wd={wd}",
+        "搜索链接": "href=\"&&\"",
+        "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
+        "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
+      }
+    },
+    {
+      "key": "xbpq_高清剧场",
+      "name": "高清┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.kanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
+        "分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports",
+        "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
+        "过滤词": "/hls/#php"
+      }
+    },
+    {
+      "key": "drpy_js_黑木耳资源",
+      "name": "木耳┃秒播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/mr.js"
+    },
+    {
+      "key": "hipy_js_采集之王[合]",
+      "name": "采集┃大全",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 210,
+      "ext": "./lib/采集静态.json"
+    },
+    {
+      "key": " 百姓 ",
+      "name": "百姓┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ua": "okhttp/3.15",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "特别提醒您请勿相信影片中的广告，以免上当受骗❗+剧情介绍：&&</p >",
+        "分类url": "https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"
+      }
+    },
+    {
+      "key": "文才",
+      "name": "文采┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ua": "okhttp/3.15",
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/文才.json"
+    },
+    {
+      "key": "奈飞中文",
+      "name": "奈飞┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ua": "okhttp/3.15",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/nfzw.json"
+    },
+    {
+      "key": "萌米",
+      "name": "萌米┃影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "csp_vs",
+      "name": "维斯┃自制",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ua": "okhttp/3.15",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/vsys.json"
+    },
+    {
+      "key": "csp_xBPQ_奇优",
+      "name": "奇优┃自制",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ua": "okhttp/3.15",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/qiyou.json"
+    },
+    {
+      "key": "Bili2",
+      "name": "宝宝趣学┃国学",
+      "type": 3,
+      "api": "csp_Bili2",
+      "jar": "./lib/qx.jar",
+      "searchable": 0,
+      "ext": "./lib/video_data.json"
+    },
+    {
+      "key": "少儿教育",
+      "name": "教育专区┃儿童",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/少儿教育.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "教育专区┃小学",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/小学课堂.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "教育专区┃初中",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/初中课堂.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "教育专区┃高中",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/高中课堂.json"
+    },
+    {
+      "key": "学习园地",
+      "name": "教育专区┃课程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "ua": "okhttp/3.15",
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Blixt.json"
+    },
+    {
+      "key": "学外语",
+      "name": "教育专区┃外语",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "ua": "okhttp/3.15",
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/waiyu.json"
+    },
+
+    {
+      "key": "cc",
+      "name": "请勿相信视频中任何广告",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0
+    }
+  ]
+}
