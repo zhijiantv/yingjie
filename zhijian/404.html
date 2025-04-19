@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>指尖看工具 - 微信小程序</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            background: linear-gradient(45deg, #0a0a2e, #1a1a4f);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            position: relative;
+            z-index: 1;
+        }
+
+        .error-code {
+            font-size: 15rem;
+            font-weight: 900;
+            color: rgba(255, 255, 255, 0.1);
+            background: linear-gradient(45deg, #00b4d8, #90e0ef);
+            -webkit-background-clip: text;
+            background-clip: text;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+            animation: float 3s ease-in-out infinite;
+        }
+
+        .message {
+            margin-top: -2rem;
+            color: #fff;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+            color: #ccc;
+        }
+
+        .home-btn {
+            display: inline-block;
+            padding: 1rem 2rem;
+            background: linear-gradient(45deg, #00b4d8, #90e0ef);
+            color: white;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: bold;
+            transition: transform 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .home-btn:hover {
+            transform: translateY(-3px);
+        }
+
+        /* 背景动画 */
+        .bg-animation {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+        }
+
+        .circle {
+            position: absolute;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.05);
+            animation: scale 8s linear infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+
+        @keyframes scale {
+            0% {
+                transform: scale(0);
+                opacity: 1;
+            }
+            100% {
+                transform: scale(1);
+                opacity: 0;
+            }
+        }
+
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            .error-code {
+                font-size: 8rem;
+            }
+            h1 {
+                font-size: 1.8rem;
+            }
+            p {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-animation">
+        <!-- 动态背景元素 -->
+        <div class="circle" style="top:20%; left:10%"></div>
+        <div class="circle" style="top:60%; left:80%"></div>
+        <div class="circle" style="top:40%; left:30%"></div>
+    </div>
+
+    <div class="container">
+        <div class="error-code">404</div>
+        <div class="message">
+            <h1>欢迎，你进入了指尖看工具 - 微信小程序 🚀</h1>
+            <p>我们似乎找不到你要访问的页面，<br>它可能已经迁移到其他星系，或者暂时消失了。</p>
+            <a href="/" class="home-btn">返回地球家园</a>
+        </div>
+    </div>
+
+    <script>
+        // 动态创建背景动画元素
+        function createBubbles() {
+            const container = document.querySelector('.bg-animation');
+            for (let i = 0; i < 6; i++) {
+                const circle = document.createElement('div');
+                circle.className = 'circle';
+                circle.style.top = Math.random() * 100 + '%';
+                circle.style.left = Math.random() * 100 + '%';
+                circle.style.animationDelay = Math.random() * 5 + 's';
+                container.appendChild(circle);
+            }
+        }
+        createBubbles();
+    </script>
+</body>
+</html>
