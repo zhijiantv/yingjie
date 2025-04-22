@@ -110,7 +110,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://csappym.lyyytv.cn/api.php/app/"
+            "ext": "http://csjt.lyyytv.cn/api.php/app/"
         },
         {
             "key": "金牌影视",
@@ -218,28 +218,6 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
-        },
-        {
-            "key": "河马短剧",
-            "name": "河马｜短剧",
-            "type": 3,
-            "api": "./yingjie/py/河马短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "偷乐短剧",
-            "name": "偷乐｜短剧",
-            "type": 3,
-            "api": "./yingjie/py/偷乐短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
         },
         {
             "key": "爱看短剧",
@@ -595,6 +573,17 @@
             "playerType": 2
         },
         {
+            "key": "央视影视",
+            "name": "央视｜APP",
+            "type": 3,
+            "api": "./yingjie/py/央视影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
             "key": "二三",
             "name": "二三｜App",
             "type": 3,
@@ -659,36 +648,12 @@
             "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
         },
         {
-            "key": "优秀",
-            "name": "优秀｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cDovL2FpLnhpYW95dW4uaW5rfEtMckZxU2ptYzRPSWo3NkJ8S0xyRnFTam1jNE9Jajc2QnwzMDA="
-        },
-        {
-            "key": "莉莉",
-            "name": "莉莉｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTg2OjEwMDk5fFBNS2Faa0F2NFFwNTNFV258UE1LYVprQXY0UXA1M0VXbnw0MjU="
-        },
-        {
             "key": "电影",
             "name": "电影｜APP",
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 1,
             "ext": "jaHR0cHM6Ly9jOHcyb3Y3dTV3ZzJ6MW84cDIxYy5hbGl5dW5jcy5jbGljazoyNzg5OXxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
-        },
-        {
-            "key": "奇妙",
-            "name": "奇妙｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cDovLzE1NC4xMi45MS4yMTE6NjY4fDEyMzQ1Njc4OUFCQ0RFRkd8MTIzNDU2Nzg5QUJDREVGR3wxMDY="
         },
         {
             "key": "人人",
@@ -941,6 +906,34 @@
             "ext": "./yingjie/XBPQ/流光影视.json"
         },
         {
+            "key": "星辰影视",
+            "name": "星辰｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./yingjie/XBPQ/星辰影视.json"
+        },
+        {
+            "key": "巴蜀影视",
+            "name": "巴蜀｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./yingjie/XBPQ/巴蜀影视.json"
+        },
+        {
+            "key": "泥巴影视",
+            "name": "泥巴｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./yingjie/XBPQ/泥巴影视.json"
+        },
+        {
+            "key": "随客影视",
+            "name": "随客｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./yingjie/XBPQ/随客影视.json"
+        },
+        {
             "key": "一起影视",
             "name": "一起｜影视",
             "type": 3,
@@ -980,8 +973,8 @@
             "key": "追剧影视",
             "name": "追剧｜影视",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/追剧视频.js"
+            "api": "./yingjie/js/drpy2.min.js",
+            "ext": "./yingjie/js/追剧视频.js"
         },
         {
             "key": "魔力高清",
@@ -1904,7 +1897,7 @@
             "name": "一起｜看球",
             "type": 3,
             "api": "csp_Kanqiu",
-            "jar": "https://4708.kstore.space/jar/spider.jar",
+            "jar": "https://4708.kstore.space/jar/Yoursmile.jar",
             "searchable": 0,
             "style": {
                 "type": "list"
@@ -1964,14 +1957,14 @@
             "key": "网络直播",
             "name": "网络｜直播",
             "type": 3,
-            "api": "./py/网络直播.py"
+            "api": "./yingjie/py/网络直播.py"
         },
         {
             "key": "快手直播",
             "name": "快手｜直播",
             "type": 3,
             "api": "csp_KsLive",
-            "jar": "https://4708.kstore.space/jar/spider.jar",
+             "jar": "https://4708.kstore.space/tvbox/spider.jar",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
@@ -2019,15 +2012,15 @@
     },
 		
 		{
-			"key": "爱上你听书网",
-			"name": "爱上｜小说",
+			"key": "博看听书网",
+			"name": "博看｜小说",
 			"type": 3,
 			"api": "./yingjie/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./yingjie/js/爱上你听书网[听].js"
+			"ext": "./yingjie/js/博看听书.js"
 		},
         {
 	"key": "中华听书网",
@@ -2520,15 +2513,31 @@
             "quickSearch": 1,
             "filterable": 1
         },
+
         {
-            "key": "push_agent",
-            "name": "幸福｜拾光",
+            "key": "短剧大全",
+            "name": "短剧｜夸克",
             "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0
-        }
+            "api": "./yingjie/js/quark.min.js",
+            "ext": "./yingjie/js/短剧大全.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+       "key": "幸福｜拾光",
+       "name": "幸福｜拾光",
+       "type": 3,
+       "api": "csp_XBPQ",
+       "ext": {
+       "请求头": "User-Agent$MOBILE_UA",
+       "编码": "UTF-8",
+       "分类": "电影$chfilm#电视剧$chtvs#综艺$chvariety#动漫$chcg#",  
+       "分类url": "https://www.cgong.com/{cateId}/{class}_{area}_{year}_gold_{catePg}.html",
+       "简介": "喜欢热闹还是喜欢安静
+       " 
+      }
+    }
     ],
     "parses": [
         {
@@ -2711,7 +2720,7 @@
 		},
         {
             "name": "夏夜",
-            "type": "1",
+            "type": "0",
             "url": "http://8.155.50.80/xiaye.php?url=",
             "ext": {
                 "flag": [
